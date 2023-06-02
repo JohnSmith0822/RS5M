@@ -111,7 +111,7 @@ python src/downstream_main.py --batch_size 100 --num_gpu 1 --num_cpu 16 --downst
 ### Caption with huggingface [comparing-captioning-models](https://huggingface.co/spaces/nielsr/comparing-captioning-models)
 ![teaser](img/rs3_caption_compare.jpg)
 
-### Caption with BLIP2 opt6.7
+### Caption with [BLIP2 opt6.7](https://huggingface.co/docs/transformers/main/model_doc/blip-2)
 ![teaser](img/blip2_captioning_result.jpg)
 
 
