@@ -40,7 +40,7 @@ Pre-trained Vision-Language Foundation Models utilizing extensive image-text pai
 ## Access
 We use Aliyun's OSS ([Object Storage Service](https://www.alibabacloud.com/help/en/object-storage-service/latest/ossutil-overview) to host our dataset (500GB in total).
 
-Bucket name can be found in openreview's Dataset Url.
+Bucket name can be found in openreview's dataset URL.
 
 The dataset can be downloaded with command:
 
