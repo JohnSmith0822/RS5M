@@ -38,15 +38,21 @@ Pre-trained Vision-Language Foundation Models utilizing extensive image-text pai
 
 
 ## Access
-We use Aliyun's OSS ([Object Storage Service](https://www.alibabacloud.com/help/en/object-storage-service/latest/ossutil-overview) to host our dataset (500GB in total).
+We use Aliyun's OSS (Object Storage Service) to host our dataset (~500GB). The introduction and installation guidence for ossutil can be found in: 
 
-Bucket name can be found in openreview's dataset URL.
+https://www.alibabacloud.com/help/en/object-storage-service/latest/ossutil-overview
+
+The bucket name can be found in openreview's dataset URL.
 
 The dataset can be downloaded with command:
 
 ```bash
 ossutil sync oss://xxxx/ /your/local/dir/
 ```
+
+The meta data can be found in: 
+
+https://huggingface.co/datasets/Zilun/RS5M
 
 
 ## Construction Pipeline
