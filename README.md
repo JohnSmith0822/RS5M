@@ -54,8 +54,9 @@ The meta data can be found in:
 
 https://huggingface.co/datasets/Zilun/RS5M
 
-**Backup**: We upload the dataset to Google Drive: https://drive.google.com/drive/folders/1ahUq60DRCKbGyMVP7goAHQj_qJqVyord?usp=sharing . Feel free to download through Google drive.
-
+**Backup**: 
+* Google Drive: https://drive.google.com/drive/folders/1ahUq60DRCKbGyMVP7goAHQj_qJqVyord?usp=sharing . Feel free to download through Google drive.
+* Baidu Disk: https://pan.baidu.com/s/1r4tmC6k2dyHxftO8myMpNw?pwd=262a Password: 262a
 
 ## Construction Pipeline
 
