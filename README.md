@@ -50,7 +50,7 @@ The dataset can be downloaded with command:
 ossutil sync oss://xxxx/ /your/local/dir/
 ```
 
-The meta data can be found in: 
+The meta data (caption, img url, etc.) can be found in: 
 
 https://huggingface.co/datasets/Zilun/RS5M
 
